@@ -1,0 +1,14 @@
+<div id="myDIV" class="header">
+  <h2>My To Do List</h2>
+  <input type="text" id="myInput" placeholder="Title...">
+  <span onclick="newElement()" class="addBtn">Add</span>
+</div>
+
+<ul id="myUL">
+  <li>buy a car</li>
+  <li class="checked">Pay bills</li>
+  <li>shift dzire</li>
+  <li>toyota</li>
+  <li>innova</li>
+  <li>renalt duster</li>
+</ul>
